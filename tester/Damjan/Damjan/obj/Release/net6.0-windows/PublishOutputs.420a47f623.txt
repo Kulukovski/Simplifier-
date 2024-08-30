@@ -1,0 +1,5 @@
+C:\Users\Alien\Desktop\LiterallyDamjan\Damjan.exe
+C:\Users\Alien\Desktop\LiterallyDamjan\Damjan.dll
+C:\Users\Alien\Desktop\LiterallyDamjan\Damjan.deps.json
+C:\Users\Alien\Desktop\LiterallyDamjan\Damjan.runtimeconfig.json
+C:\Users\Alien\Desktop\LiterallyDamjan\Damjan.pdb
