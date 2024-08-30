@@ -1,0 +1,14 @@
+﻿  tester.cpp
+C:\Users\damek\source\repos\tester\tester\tester.cpp(118,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\damek\source\repos\tester\tester\tester.cpp(122,1): warning C4267: '=': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\damek\source\repos\tester\tester\tester.cpp(199,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\damek\source\repos\tester\tester\tester.cpp(240,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  tester.vcxproj -> C:\Users\damek\source\repos\tester\x64\Debug\tester.exe
